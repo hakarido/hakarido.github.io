@@ -1,4 +1,4 @@
-title: "hakarido— AIコードを測って壊す"
+title: "hakarido — AIコードを測って壊す"
 description: "AIが書いたコードを、毎週1本、自分の手で測って壊す実測記録。表・スクショ・再現リポジトリつき。下書きにAI使用、実測と確認は全件本人。"
 url: "https://hakarido.github.io"
 baseurl: ""
